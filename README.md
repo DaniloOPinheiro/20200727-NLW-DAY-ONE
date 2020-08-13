@@ -2,7 +2,7 @@
 
     * Acelerando sua evolução
     
-## Estrura Web com ReactJS
+## Estrutura Web com ReactJS
 
 * Fases do Projeto
    
