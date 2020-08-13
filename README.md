@@ -4,7 +4,7 @@
     
 ## Estrura Web com ReactJS
 
-1. Fases do Projeto
+* Fases do Projeto
    
    * JSX
    * Componentes
