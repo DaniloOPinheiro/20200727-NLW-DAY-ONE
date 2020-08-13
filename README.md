@@ -1,6 +1,6 @@
 # NLW - Primeira Parte do Projeto
 
-    * Acelerando sua evolução
+      Acelerando sua evolução
     
 ## Estrutura Web com ReactJS
 
